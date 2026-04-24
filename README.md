@@ -27,6 +27,14 @@ between Q1 and Q2 (4.2 years). Males carry a larger absolute gap
 (15.2 years) than females (14.2 years), despite females having higher 
 HALE at every deprivation level.
 
+## Visualizations
+
+**Figure 1: Overall HALE by IMD Quintile**  
+![HALE by quintile](figures/01_hale_by_quintile_overall.png)
+
+**Figure 2: HALE by IMD Quintile and Sex**  
+![HALE by quintile and sex](figures/02_hale_by_quintile_sex.png)
+
 ## Data Source
 Preloaded datasets from `dceasimR`: England IMD quintile HALE data 
 (PHE/OHID Health Profiles Plus, proxy estimates, 2019).
