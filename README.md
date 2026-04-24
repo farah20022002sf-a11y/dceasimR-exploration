@@ -8,12 +8,15 @@ and works through baseline inequality characterization, DCEA execution,
 and equity-efficiency trade-off interpretation.
 
 ## Repository Structure
-├── 01_data_exploration.R     # EDA and inequality gap analysis
-├── 02_dcea_analysis.R        # DCEA execution (in progress)
+
+```
+├── 01_data_exploration.R       # EDA and inequality gap analysis
+├── 02_dcea_analysis.R          # DCEA execution (in progress)
 ├── figures/
 │   ├── 01_hale_by_quintile_overall.png
 │   └── 02_hale_by_quintile_sex.png
 └── README.md
+```
 
 ## Key Finding: Baseline Inequality (England, 2019)
 The most deprived quintile (Q1) has a mean HALE of 52.1 years versus 
